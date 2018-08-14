@@ -1,0 +1,18 @@
+/*#movies{
+	display: flex;
+	flex-wrap: wrap;
+
+}
+img{
+	flex: 1 100px;
+	margin: 5px;
+	border-radius: 20px;
+}*/
+button {
+    transition: width 2s;
+    width: 200px;
+  }
+
+  .wide {
+    width: 500px;
+  }
